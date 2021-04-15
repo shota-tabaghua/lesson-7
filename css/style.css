@@ -1,10 +1,46 @@
 .background1{
-	background-image: url(../images/Header.png);
+	background-image: url(../images/img1.jpg);
 	width: 1280px;
 	height: 900px;
 	background-repeat: no-repeat;
 	margin: 0 auto;
+	position: relative;
+	
+	
+
+	
+	
 }
+.lorem111{
+	font-size: 100px;
+	color:#FFFFFF;
+	margin-top:340px;
+	margin-left: 350px;
+	position: absolute;
+
+}
+.navigation{
+	color:#D9F0FF;
+	display: inline-block;
+	margin-left: 840px;
+	margin-top: 70px;
+	font-size: 12px;
+	position: absolute;
+}
+.nav-1{
+	display: inline-block;
+	margin-right: 22px;
+}
+.land1{
+	position: absolute;
+	font-size: 28px;
+	color: #D9F0FF;
+	margin-top: 55px;
+	margin-left: 70px;
+
+}
+
+
 
 .container{
 	width: 1280px;
